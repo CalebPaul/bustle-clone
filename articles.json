@@ -1,0 +1,28 @@
+{
+  "articles": {
+    [{
+      title: "The Scary Story To Read Based On Your Zodiac Sign",
+      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/6b66d3e6-c774-48c2-b395-961871db291e.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+      content:
+        "It's that time of year again: everyone's drinking gourd-flavored coffee and warding off violent clowns in the             streets. Orange has become temporarily fashionable. Halloween is almost upon us, and now is the time to read horror stories, as assigned by your horoscope. So here is the one scary story to read, based on your zodiac sign.
+
+        Look, I understand that astrology is a... soft science at best. Some might even argue that it's not a science at all (although I feel like Victor Frankenstein could maybe get behind it). But last I checked, zombies and vampires weren't real, either. Sorry to disappoint. If you're going to suspend your disbelief for long enough to get thoroughly freaked out by monsters, ghosts, and masked madmen, you might as well go the whole nine yards and start making decisions based on your astrological sign. It's more fun, anyway.
+
+        So I'd like to present you with 12 terrifying tales, one for every sign of the zodiac. There's heart-pounding violence for Aries, emotional manipulation for Cancer, drop-dead sexy monsters for Scorpio, and some kind of weird nonsense for Aquarius, plus everything in between. If you're looking for a personalized horror story, specifically chosen to get under your skin, look no further:",
+      author: "Charlotte Ahlin",
+      timestamp:
+    }, {
+      title: "7 Butterbeer Recipes To Enjoy This Fall",
+      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/6c1bc598-24b3-4ed4-8aae-3908cdc8aae4.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+      content: "",
+      author: "Julia Seales",
+      timestamp:
+    }, {
+      title: "6 David Szalay Quotes On The Human Condition",
+      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/ff1faa58-fc1f-45e9-ab90-5aac79456a05.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+      content: "",
+      author: "Emma Oulton",
+      timestamp:
+    }];
+  }
+}

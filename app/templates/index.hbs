@@ -1,0 +1,15 @@
+<h1>Books</h1>
+
+<div class="row">
+  {{#each model as |article|}}
+    {{article-featured article=article}}
+  {{/each}}
+</div>
+<div class="row">
+  {{#each model as |article|}}
+    {{article-main article=article}}
+  {{/each}}
+</div>
+{{#each model as |article|}}
+  {{article-tile article=article}}
+{{/each}}

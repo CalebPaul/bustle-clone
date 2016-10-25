@@ -1,0 +1,22 @@
+{{#unless article.isFeatured}}
+  {{#unless article.isMain}}
+    <div class="article-list row well">
+      <div class="col-md-6">
+        <img class="pull-left img-responsive" src={{article.image}} alt="article image"/>
+      </div>
+      <div class="col-md-6">
+        <h2>{{article.title}}</h2>
+        <p>{{article.content}}</p>
+        <br>
+        <div class="row">
+          <div class="col-md-6">
+            <p class="pull-left">By {{article.author}}</p>
+          </div>
+          <div class="col-md-6">
+            <p class="pull-right">{{moment-from-now article.timestamp}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{/unless}}
+{{/unless}}

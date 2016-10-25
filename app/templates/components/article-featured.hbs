@@ -1,5 +1,7 @@
 {{#if article.isFeatured}}
   <div class="col-sm-4">
-    <img class="img-responsive" src={{article.image}} alt="" />
+    {{#link-to 'article' article.id}}
+      <img class="img-responsive" src={{article.image}} alt="" />
+    {{/link-to}}
   </div>
 {{/if}}

@@ -1,28 +1,58 @@
-{
-  "articles": {
-    [{
-      title: "The Scary Story To Read Based On Your Zodiac Sign",
-      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/6b66d3e6-c774-48c2-b395-961871db291e.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
-      content:
-        "It's that time of year again: everyone's drinking gourd-flavored coffee and warding off violent clowns in the             streets. Orange has become temporarily fashionable. Halloween is almost upon us, and now is the time to read horror stories, as assigned by your horoscope. So here is the one scary story to read, based on your zodiac sign.
-
-        Look, I understand that astrology is a... soft science at best. Some might even argue that it's not a science at all (although I feel like Victor Frankenstein could maybe get behind it). But last I checked, zombies and vampires weren't real, either. Sorry to disappoint. If you're going to suspend your disbelief for long enough to get thoroughly freaked out by monsters, ghosts, and masked madmen, you might as well go the whole nine yards and start making decisions based on your astrological sign. It's more fun, anyway.
-
-        So I'd like to present you with 12 terrifying tales, one for every sign of the zodiac. There's heart-pounding violence for Aries, emotional manipulation for Cancer, drop-dead sexy monsters for Scorpio, and some kind of weird nonsense for Aquarius, plus everything in between. If you're looking for a personalized horror story, specifically chosen to get under your skin, look no further:",
-      author: "Charlotte Ahlin",
-      timestamp:
-    }, {
-      title: "7 Butterbeer Recipes To Enjoy This Fall",
-      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/6c1bc598-24b3-4ed4-8aae-3908cdc8aae4.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
-      content: "",
-      author: "Julia Seales",
-      timestamp:
-    }, {
-      title: "6 David Szalay Quotes On The Human Condition",
-      image: "https://typeset-beta.imgix.net/rehost/2016/10/25/ff1faa58-fc1f-45e9-ab90-5aac79456a05.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
-      content: "",
-      author: "Emma Oulton",
-      timestamp:
-    }];
-  }
+{ "articles": [{
+    "title": "The Scary Story To Read Based On Your Zodiac Sign",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/6b66d3e6-c774-48c2-b395-961871db291e.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+    "content": "It's that time of year again: everyone's drinking gourd-flavored coffee and warding off violent clowns in the             streets. Orange has become temporarily fashionable. Halloween is almost upon us, and now is the time to read horror stories, as assigned by your horoscope. So here is the one scary story to read, based on your zodiac sign.",
+    "author": "CHARLOTTE AHLIN",
+    "isMain": false,
+    "isFeatured": false,
+    "timestamp": "moment.now()"
+  }, {
+    "title": "7 Butterbeer Recipes To Enjoy This Fall",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/6c1bc598-24b3-4ed4-8aae-3908cdc8aae4.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+    "content": "Harry Potter fans first read about Butterbeer in Harry Potter and the Prisoner of Azkaban. Students took trips to Hogsmeade, where they tasted the sweet beverage at the Three Broomsticks. Harry believes it is “the most delicious thing he'd ever tasted” and describes how it “seemed to heat every bit of him from the inside.” So how does it really taste, and how can you make Butterbeer? I'm here to tell you",
+    "author": "JULIA SEALES",
+    "isMain": false,
+    "isFeatured": false,
+    "timestamp": ""
+  }, {
+    "title": "6 David Szalay Quotes On The Human Condition",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/ff1faa58-fc1f-45e9-ab90-5aac79456a05.jpg?w=461&h=245&fit=crop&crop=faces&auto=format&q=70",
+    "content": "The Man Booker Prize shortlist this year covers an impressive range of topics from murder to madness — but the novel by nominee David Szalay is about a topic that, on the surface, seems far less mysterious: masculinity. I mean, men have been at the center of history and literature for centuries, right? But somehow, in Szalay's masterful hands, the topic seems brand new again.",
+    "author": "EMMA OULTON",
+    "isMain": false,
+    "isFeatured": false,
+    "timestamp": ""
+  }, {
+    "title": "17 Dating & Relationship Habits You Didn't Realize Were Toxic",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/24/8aab6aca-3755-4b07-baa9-7d2eba105fdd.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70",
+    "content": "Toxic relationships: At first blush, hell no to that, right? But the tricky thing about toxicity is that it can be sneaky, and pervasive, and there's even a chance that you might be exhibiting certain toxic dating habits and not realize it. Crazy, huh? Except — not crazy, because calling someone crazy is most definitely a toxic thing to do. Also not crazy because so many of us fall into unhealthy dating and relationship patterns without knowing it, and sometimes a good wake-up call is just what the doctor ordered. (And let's be real: Harmful relationships are way too prevalent in this day and age, having made their way into the mainstream in a major way — shoutout to Britney Spears' song.)",
+    "author": "BIBI DEITZ",
+    "isMain": true,
+    "isFeatured": false,
+    "timestamp": ""
+  }, {
+    "title": "7 Times Women Supported Women In This Election, Because Us Nasty Gals Have To Stick Together",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/25/aa7e2157-6fe1-487d-bf78-bef7288532b6.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70",
+    "content": "This election has been a bit of a conundrum for women. On the one hand, it has given us our best and closest chance at the first female president, but it has also produced extreme vitriol against women not seen in any previous presidential election. Thanks to Donald Trump (as well as many of the Republican candidates that came before him), female voters have been dealt an onslaught of attacks against their bodies and mental wellbeing. But thankfully, those attacks have inspired women to support other women throughout the election, creating a camaraderie both online and in person.",
+    "author": "MELISSA CRUZ",
+    "isMain": false,
+    "isFeatured": true,
+    "timestamp": ""
+  }, {
+    "title": "What Is Succulent Hair? Here's Why You Should Try A New Cactus-Colored 'Do — PHOTOS",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/24/5e0ce080-b7ec-4997-a83a-36f5cee830e9.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70",
+    "content": "As someone who has yet to keep a succulent (or any plant, for that matter) alive for more than a few weeks, there is a new multi-colored hairdo is officially the best new way to get in on the cactus-collecting trend without having to worry about the care of a living organism. 'Succulent hair' is the newest dye trend to hit the internet, and (rather surprisingly) it's seriously beautiful. So what is succulent hair, exactly?",
+    "author": "ZOE WEINER",
+    "isMain": false,
+    "isFeatured": true,
+    "timestamp": ""
+  }, {
+    "title": "20 Easy 2016 Halloween Costume Ideas That Require Little To No Effort",
+    "image": "https://typeset-beta.imgix.net/rehost/2016/10/23/01f3ec9d-69af-4b2e-8670-d36c9ff342b4.jpg?w=740&h=436.59999999999997&fit=crop&crop=faces&auto=format&q=70",
+    "content": "The days leading up to Halloween can be pretty crazy. It is not unlikely to suddenly realize that you don’t have an outfit, resulting in an intense brainstorm session for a last-minute easy Halloween costume idea. And since store-bought ensembles can cost a pretty penny, it is never a bad idea to try and curate an outfit yourself. It also helps to use ordinary items that can be used again instead of collecting dust in the depths of your closet.",
+    "author": "KIRSTEN NUNEZ",
+    "isMain": false,
+    "isFeatured": true,
+    "timestamp": ""
+  }]
 }

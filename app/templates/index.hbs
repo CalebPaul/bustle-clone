@@ -1,14 +1,20 @@
-<h1>Books</h1>
-
-<div class="row">
+<div class="row article-featured">
   {{#each model as |article|}}
     {{article-featured article=article}}
   {{/each}}
 </div>
-<div class="row">
+<div class="row article-main">
   {{#each model as |article|}}
     {{article-main article=article}}
   {{/each}}
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <h3 class="pull-left"><em>Today's Top News</em></h3>
+  </div>
+  <div class="col-sm-6">
+    <h4 class="pull-right">{{moment-format (now) 'LL'}}</h4>
+  </div>
 </div>
 {{#each model as |article|}}
   {{article-tile article=article}}

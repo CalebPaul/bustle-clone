@@ -1,0 +1,14 @@
+.article-featured {
+
+}
+
+.article-main {
+  padding: 5px;
+  text-align: center;
+}
+
+.article-main, img {
+  display: block;
+  margin: auto;
+
+}
